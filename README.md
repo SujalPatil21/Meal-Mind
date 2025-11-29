@@ -22,7 +22,7 @@ https://sujalpatil21.github.io/Meal-Mind/
 
 
 ## ⭐ Features
-
+ 
 ### 🔍 Smart Recipe Suggestions
 - Enter ingredients → get instant recipe matches  
 - Veg / Non-Veg filtering  
