@@ -117,6 +117,7 @@ uvicorn main:app --reload
 # Open frontend in your browser
 index.html
 
+
 ## 👨‍💻 Authors
 
 - **Sujal Patil** – [GitHub](https://github.com/SujalPatil21)  
