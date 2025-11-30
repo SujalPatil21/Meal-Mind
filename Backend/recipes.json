@@ -7,14 +7,7 @@
     "type": "veg",
     "healthy_alternative": "Use whole wheat pasta and low-fat cheese"
   },
-  {
-    "name": "Chicken Curry",
-    "ingredients": ["chicken", "onion", "tomato", "spices", "garlic"],
-    "steps": ["Cook onion and garlic", "Add chicken", "Add spices and simmer", "Add tomato"],
-    "nutrition": {"calories": 500, "protein": 35, "carbs": 20, "fat": 25},
-    "type": "non-veg",
-    "healthy_alternative": "Use less oil and add vegetables"
-  },
+
   {
     "name": "Vegetable Stir Fry",
     "ingredients": ["broccoli", "carrot", "capsicum", "soy sauce", "olive oil"],
@@ -368,14 +361,7 @@
     "nutrition": {"calories": 400, "protein": 35, "carbs": 10, "fat": 20},
     "type": "non-veg",
     "healthy_alternative": "Use less honey and serve with steamed vegetables"},
-    {
-      "name": "Pasta",
-      "ingredients": ["pasta", "tomato", "cheese", "olive oil", "garlic"],
-      "steps": ["Boil pasta", "Prepare sauce with tomato and garlic", "Mix pasta and sauce", "Add cheese on top"],
-      "nutrition": {"calories": 400, "protein": 15, "carbs": 60, "fat": 12},
-      "type": "veg",
-      "healthy_alternative": "Use whole wheat pasta and low-fat cheese"
-    },
+    
     {
       "name": "Chicken Curry",
       "ingredients": ["chicken", "onion", "tomato", "spices", "garlic"],
@@ -657,14 +643,6 @@
       "healthy_alternative": "Use less olive oil"
     },
     {
-      "name": "Shrimp Fried Rice",
-      "ingredients": ["rice", "shrimp", "egg", "peas", "carrot", "soy sauce"],
-      "steps": ["Cook rice", "Scramble eggs", "Stir fry shrimp and vegetables", "Mix with rice and soy sauce"],
-      "nutrition": {"calories": 450, "protein": 30, "carbs": 60, "fat": 12},
-      "type": "non-veg",
-      "healthy_alternative": "Use brown rice and less oil"
-    },
-    {
       "name": "Stuffed Bell Peppers",
       "ingredients": ["bell peppers", "rice", "vegetables", "cheese", "spices"],
       "steps": ["Prepare rice and vegetables", "Stuff bell peppers with mixture", "Top with cheese and bake for 20 minutes"],
@@ -856,14 +834,6 @@
     "nutrition": {"calories": 380, "protein": 20, "carbs": 15, "fat": 28},
     "type": "veg",
     "healthy_alternative": "Use low-fat cream and reduce butter"
-  },
-  {
-    "name": "Chicken Curry",
-    "ingredients": ["chicken", "onion", "tomato", "coconut milk", "ginger-garlic", "spices", "oil"],
-    "steps": ["Marinate chicken", "Sauté onion and ginger-garlic", "Add chicken and brown", "Add tomato and spices", "Add coconut milk", "Simmer for 30 minutes"],
-    "nutrition": {"calories": 360, "protein": 38, "carbs": 12, "fat": 18},
-    "type": "non-veg",
-    "healthy_alternative": "Use lite coconut milk"
   },
   {
     "name": "Vegetable Korma",
