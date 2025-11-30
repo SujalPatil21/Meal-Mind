@@ -1058,10 +1058,407 @@
     "nutrition": {"calories": 420, "protein": 36, "carbs": 8, "fat": 28},
     "type": "non-veg",
     "healthy_alternative": "Use low-fat cream"
+},
+
+  {
+    "name": "Chocolate Brownie",
+    "ingredients": ["chocolate", "butter", "sugar", "eggs", "flour"],
+    "steps": ["Melt chocolate and butter", "Mix in sugar and eggs", "Fold in flour", "Bake in oven"],
+    "nutrition": {"calories": 400, "protein": 5, "carbs": 50, "fat": 20},
+    "type": "veg",
+    "healthy_alternative": "Use dark chocolate and less sugar"
+  },
+  {
+    "name": "Vanilla Ice Cream",
+    "ingredients": ["milk", "cream", "sugar", "vanilla extract"],
+    "steps": ["Heat milk and sugar", "Add cream and vanilla", "Churn in ice cream maker"],
+    "nutrition": {"calories": 250, "protein": 4, "carbs": 28, "fat": 15},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat milk and natural sweetener"
+  },
+  {
+    "name": "Gulab Jamun",
+    "ingredients": ["milk powder", "flour", "sugar", "cardamom", "ghee"],
+    "steps": ["Make dough from milk powder and flour", "Shape into balls", "Fry in ghee", "Soak in sugar syrup"],
+    "nutrition": {"calories": 300, "protein": 6, "carbs": 40, "fat": 12},
+    "type": "veg",
+    "healthy_alternative": "Bake instead of frying"
+  },
+  {
+    "name": "Raspberry Cheesecake",
+    "ingredients": ["cream cheese", "sugar", "eggs", "biscuits", "raspberries"],
+    "steps": ["Crush biscuits for base", "Mix cream cheese, sugar, eggs", "Pour on base", "Top with raspberries and bake"],
+    "nutrition": {"calories": 450, "protein": 8, "carbs": 35, "fat": 30},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat cream cheese and less sugar"
+  },
+  {
+    "name": "Lemon Tart",
+    "ingredients": ["flour", "butter", "sugar", "eggs", "lemon juice"],
+    "steps": ["Make tart base with flour and butter", "Mix eggs, sugar, lemon juice", "Pour into base", "Bake until set"],
+    "nutrition": {"calories": 320, "protein": 5, "carbs": 35, "fat": 18},
+    "type": "veg",
+    "healthy_alternative": "Use whole wheat flour and less sugar"
+  },
+  {
+    "name": "Tiramisu",
+    "ingredients": ["mascarpone", "ladyfingers", "coffee", "cocoa powder", "sugar"],
+    "steps": ["Dip ladyfingers in coffee", "Layer with mascarpone mix", "Repeat layers", "Dust with cocoa powder"],
+    "nutrition": {"calories": 350, "protein": 6, "carbs": 28, "fat": 22},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat mascarpone and sugar substitute"
+  },
+  {
+    "name": "Apple Pie",
+    "ingredients": ["apples", "flour", "butter", "sugar", "cinnamon"],
+    "steps": ["Prepare pie crust", "Mix sliced apples with sugar and cinnamon", "Fill crust and cover", "Bake until golden"],
+    "nutrition": {"calories": 300, "protein": 3, "carbs": 45, "fat": 12},
+    "type": "veg",
+    "healthy_alternative": "Use less sugar and whole wheat crust"
+  },
+  {
+    "name": "Chocolate Chip Cookies",
+    "ingredients": ["flour", "butter", "sugar", "eggs", "chocolate chips"],
+    "steps": ["Mix butter and sugar", "Add eggs", "Fold in flour and chocolate chips", "Bake"],
+    "nutrition": {"calories": 200, "protein": 2, "carbs": 28, "fat": 10},
+    "type": "veg",
+    "healthy_alternative": "Use oats and dark chocolate"
+  },
+  {
+    "name": "Panna Cotta",
+    "ingredients": ["cream", "milk", "sugar", "gelatin", "vanilla"],
+    "steps": ["Heat cream and milk with sugar", "Add gelatin", "Pour into molds", "Chill until set"],
+    "nutrition": {"calories": 220, "protein": 4, "carbs": 15, "fat": 16},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat milk and less sugar"
+  },
+  {
+    "name": "Mango Mousse",
+    "ingredients": ["mango puree", "cream", "sugar", "gelatin"],
+    "steps": ["Whip cream with sugar", "Mix in mango puree", "Add gelatin", "Chill until set"],
+    "nutrition": {"calories": 180, "protein": 3, "carbs": 25, "fat": 8},
+    "type": "veg",
+    "healthy_alternative": "Use Greek yogurt instead of cream"
+  },
+  {
+    "name": "Carrot Halwa",
+    "ingredients": ["carrots", "milk", "sugar", "ghee", "cardamom"],
+    "steps": ["Grate carrots", "Cook in milk", "Add sugar and ghee", "Cook until thick", "Add cardamom"],
+    "nutrition": {"calories": 250, "protein": 5, "carbs": 35, "fat": 10},
+    "type": "veg",
+    "healthy_alternative": "Use less sugar and ghee"
+  },
+  {
+    "name": "Strawberry Shortcake",
+    "ingredients": ["flour", "sugar", "butter", "cream", "strawberries"],
+    "steps": ["Bake shortcake base", "Whip cream", "Slice strawberries", "Assemble layers with cream and strawberries"],
+    "nutrition": {"calories": 300, "protein": 4, "carbs": 35, "fat": 15},
+    "type": "veg",
+    "healthy_alternative": "Use whole wheat flour and less sugar"
+  },
+  {
+    "name": "Banana Pudding",
+    "ingredients": ["bananas", "milk", "sugar", "cornstarch", "vanilla"],
+    "steps": ["Cook milk, sugar, and cornstarch until thick", "Slice bananas", "Layer pudding and bananas", "Chill"],
+    "nutrition": {"calories": 180, "protein": 3, "carbs": 30, "fat": 5},
+    "type": "veg",
+    "healthy_alternative": "Use almond milk and less sugar"
+  },
+  {
+    "name": "Coconut Ladoo",
+    "ingredients": ["grated coconut", "condensed milk", "cardamom powder"],
+    "steps": ["Cook coconut with condensed milk", "Add cardamom", "Shape into balls"],
+    "nutrition": {"calories": 150, "protein": 2, "carbs": 20, "fat": 7},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat condensed milk or jaggery"
+  },
+  {
+    "name": "Pumpkin Pie",
+    "ingredients": ["pumpkin puree", "sugar", "eggs", "milk", "pie crust", "spices"],
+    "steps": ["Mix pumpkin, sugar, eggs, milk, and spices", "Pour into pie crust", "Bake until set"],
+    "nutrition": {"calories": 320, "protein": 5, "carbs": 40, "fat": 15},
+    "type": "veg",
+    "healthy_alternative": "Use less sugar and low-fat milk"
+  },
+  {
+    "name": "Chocolate Mousse",
+    "ingredients": ["chocolate", "cream", "sugar", "eggs"],
+    "steps": ["Melt chocolate", "Whip cream and sugar", "Fold in chocolate and egg whites", "Chill"],
+    "nutrition": {"calories": 250, "protein": 4, "carbs": 20, "fat": 18},
+    "type": "veg",
+    "healthy_alternative": "Use dark chocolate and less sugar"
+  },
+  {
+    "name": "Rice Pudding",
+    "ingredients": ["rice", "milk", "sugar", "cardamom", "nuts"],
+    "steps": ["Cook rice in milk", "Add sugar and cardamom", "Garnish with nuts"],
+    "nutrition": {"calories": 200, "protein": 5, "carbs": 35, "fat": 5},
+    "type": "veg",
+    "healthy_alternative": "Use less sugar and low-fat milk"
+  },
+  {
+    "name": "Peach Cobbler",
+    "ingredients": ["peaches", "flour", "sugar", "butter", "baking powder", "milk"],
+    "steps": ["Mix flour, sugar, butter, and baking powder", "Pour over sliced peaches", "Bake until golden"],
+    "nutrition": {"calories": 300, "protein": 3, "carbs": 45, "fat": 12},
+    "type": "veg",
+    "healthy_alternative": "Use less sugar and whole wheat flour"
+  },
+  {
+    "name": "Chocolate Fondue",
+    "ingredients": ["chocolate", "cream", "fruits"],
+    "steps": ["Melt chocolate with cream", "Serve with fruits for dipping"],
+    "nutrition": {"calories": 250, "protein": 2, "carbs": 28, "fat": 15},
+    "type": "veg",
+    "healthy_alternative": "Use dark chocolate and low-fat cream"
+  },
+  {
+    "name": "Blueberry Muffins",
+    "ingredients": ["flour", "sugar", "butter", "eggs", "blueberries"],
+    "steps": ["Mix dry ingredients", "Add wet ingredients", "Fold in blueberries", "Bake"],
+    "nutrition": {"calories": 220, "protein": 3, "carbs": 30, "fat": 10},
+    "type": "veg",
+    "healthy_alternative": "Use whole wheat flour and less sugar"
+  },
+  {
+    "name": "Mango Kulfi",
+    "ingredients": ["mango puree", "milk", "sugar", "cardamom"],
+    "steps": ["Mix mango puree, milk, sugar, and cardamom", "Freeze in molds"],
+    "nutrition": {"calories": 180, "protein": 3, "carbs": 25, "fat": 7},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat milk and less sugar"
+  },
+  {
+    "name": "Jalebi",
+    "ingredients": ["flour", "yogurt", "sugar", "saffron", "oil"],
+    "steps": ["Make batter with flour and yogurt", "Fry spirals in oil", "Soak in sugar syrup"],
+    "nutrition": {"calories": 250, "protein": 3, "carbs": 40, "fat": 10},
+    "type": "veg",
+    "healthy_alternative": "Bake instead of frying"
+  },
+  {
+    "name": "Chocolate Lava Cake",
+    "ingredients": ["chocolate", "butter", "sugar", "eggs", "flour"],
+    "steps": ["Melt chocolate and butter", "Mix with sugar and eggs", "Add flour", "Bake until edges set and center molten"],
+    "nutrition": {"calories": 350, "protein": 5, "carbs": 35, "fat": 22},
+    "type": "veg",
+    "healthy_alternative": "Use dark chocolate and less sugar"
+  },
+  {
+    "name": "Peanut Butter Cookies",
+    "ingredients": ["peanut butter", "sugar", "eggs", "flour"],
+    "steps": ["Mix all ingredients", "Shape into cookies", "Bake"],
+    "nutrition": {"calories": 200, "protein": 6, "carbs": 15, "fat": 14},
+    "type": "veg",
+    "healthy_alternative": "Use natural peanut butter and less sugar"
+  },
+  {
+    "name": "Strawberry Ice Cream",
+    "ingredients": ["strawberries", "cream", "milk", "sugar"],
+    "steps": ["Blend strawberries", "Mix with cream, milk, sugar", "Churn in ice cream maker"],
+    "nutrition": {"calories": 200, "protein": 3, "carbs": 20, "fat": 12},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat milk and natural sweetener"
+  },
+  {
+    "name": "Rasgulla",
+    "ingredients": ["chhena", "sugar", "water", "cardamom"],
+    "steps": ["Shape chhena into balls", "Boil in sugar syrup", "Cool and serve"],
+    "nutrition": {"calories": 150, "protein": 5, "carbs": 25, "fat": 2},
+    "type": "veg",
+    "healthy_alternative": "Use less sugar"
+  },
+  {
+    "name": "Cinnamon Roll",
+    "ingredients": ["flour", "sugar", "butter", "cinnamon", "yeast", "milk"],
+    "steps": ["Prepare dough", "Roll with cinnamon sugar", "Bake", "Top with icing"],
+    "nutrition": {"calories": 300, "protein": 4, "carbs": 45, "fat": 12},
+    "type": "veg",
+    "healthy_alternative": "Use whole wheat flour and less sugar"
+  },
+  {
+    "name": "Chocolate Truffles",
+    "ingredients": ["chocolate", "cream", "cocoa powder"],
+    "steps": ["Melt chocolate with cream", "Chill and shape into balls", "Coat with cocoa powder"],
+    "nutrition": {"calories": 100, "protein": 1, "carbs": 8, "fat": 7},
+    "type": "veg",
+    "healthy_alternative": "Use dark chocolate and less cream"
+  },
+  {
+    "name": "Baklava",
+    "ingredients": ["phyllo dough", "nuts", "sugar", "butter", "honey"],
+    "steps": ["Layer phyllo with butter and nuts", "Bake", "Pour honey syrup over hot baklava"],
+    "nutrition": {"calories": 300, "protein": 5, "carbs": 35, "fat": 15},
+    "type": "veg",
+    "healthy_alternative": "Use less sugar and butter"
+},
+
+  {
+    "name": "Mango Smoothie",
+    "ingredients": ["mango", "yogurt", "honey", "ice cubes"],
+    "steps": ["Blend mango with yogurt and honey", "Add ice cubes and blend again", "Serve chilled"],
+    "nutrition": {"calories": 180, "protein": 4, "carbs": 35, "fat": 2},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat yogurt or almond milk"
+  },
+  {
+    "name": "Banana Milkshake",
+    "ingredients": ["banana", "milk", "honey", "ice cubes"],
+    "steps": ["Blend banana with milk and honey", "Add ice cubes and blend", "Serve chilled"],
+    "nutrition": {"calories": 200, "protein": 5, "carbs": 40, "fat": 3},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat milk or plant-based milk"
+  },
+  {
+    "name": "Strawberry Smoothie",
+    "ingredients": ["strawberries", "yogurt", "honey", "ice cubes"],
+    "steps": ["Blend strawberries with yogurt and honey", "Add ice cubes and blend", "Serve chilled"],
+    "nutrition": {"calories": 150, "protein": 3, "carbs": 30, "fat": 2},
+    "type": "veg",
+    "healthy_alternative": "Use Greek yogurt and less honey"
+  },
+  {
+    "name": "Mojito Mocktail",
+    "ingredients": ["mint leaves", "lime", "soda water", "sugar", "ice cubes"],
+    "steps": ["Muddle mint leaves with sugar and lime", "Add ice cubes", "Top with soda water", "Stir gently"],
+    "nutrition": {"calories": 50, "protein": 0, "carbs": 12, "fat": 0},
+    "type": "veg",
+    "healthy_alternative": "Use stevia instead of sugar"
+  },
+  {
+    "name": "Watermelon Juice",
+    "ingredients": ["watermelon", "lime", "mint leaves", "ice cubes"],
+    "steps": ["Blend watermelon with lime and mint", "Add ice cubes and blend", "Serve chilled"],
+    "nutrition": {"calories": 80, "protein": 1, "carbs": 20, "fat": 0},
+    "type": "veg",
+    "healthy_alternative": "No added sugar needed"
+  },
+  {
+    "name": "Orange Juice",
+    "ingredients": ["oranges", "honey", "ice cubes"],
+    "steps": ["Squeeze oranges", "Add honey and ice cubes", "Stir and serve"],
+    "nutrition": {"calories": 100, "protein": 2, "carbs": 25, "fat": 0},
+    "type": "veg",
+    "healthy_alternative": "Skip honey for lower sugar"
+  },
+  {
+    "name": "Pineapple Smoothie",
+    "ingredients": ["pineapple", "coconut milk", "honey", "ice cubes"],
+    "steps": ["Blend pineapple with coconut milk and honey", "Add ice cubes and blend", "Serve chilled"],
+    "nutrition": {"calories": 160, "protein": 2, "carbs": 35, "fat": 2},
+    "type": "veg",
+    "healthy_alternative": "Use unsweetened coconut milk"
+  },
+  {
+    "name": "Cucumber Lemonade",
+    "ingredients": ["cucumber", "lemon", "water", "honey", "ice cubes"],
+    "steps": ["Blend cucumber and lemon juice", "Add water, honey, and ice cubes", "Stir and serve"],
+    "nutrition": {"calories": 40, "protein": 1, "carbs": 10, "fat": 0},
+    "type": "veg",
+    "healthy_alternative": "Use no honey for zero-calorie drink"
+  },
+  {
+    "name": "Iced Coffee",
+    "ingredients": ["coffee", "milk", "sugar", "ice cubes"],
+    "steps": ["Brew coffee", "Add milk and sugar", "Pour over ice cubes", "Serve chilled"],
+    "nutrition": {"calories": 100, "protein": 3, "carbs": 12, "fat": 3},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat milk and stevia"
+  },
+  {
+    "name": "Green Tea Latte",
+    "ingredients": ["green tea powder", "milk", "honey"],
+    "steps": ["Mix green tea powder with hot milk", "Add honey", "Stir and serve"],
+    "nutrition": {"calories": 90, "protein": 3, "carbs": 15, "fat": 2},
+    "type": "veg",
+    "healthy_alternative": "Use almond milk and skip honey"
+  },
+  {
+    "name": "Berry Lemonade",
+    "ingredients": ["mixed berries", "lemon juice", "water", "honey", "ice cubes"],
+    "steps": ["Blend berries", "Mix with lemon juice, water, and honey", "Add ice cubes and serve"],
+    "nutrition": {"calories": 60, "protein": 1, "carbs": 15, "fat": 0},
+    "type": "veg",
+    "healthy_alternative": "Use no honey for lower sugar"
+  },
+  {
+    "name": "Chocolate Milkshake",
+    "ingredients": ["chocolate syrup", "milk", "ice cream", "ice cubes"],
+    "steps": ["Blend milk, chocolate syrup, and ice cream", "Add ice cubes and blend", "Serve chilled"],
+    "nutrition": {"calories": 250, "protein": 5, "carbs": 40, "fat": 8},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat milk and sugar-free syrup"
+  },
+  {
+    "name": "Strawberry Lemonade",
+    "ingredients": ["strawberries", "lemon juice", "water", "honey", "ice cubes"],
+    "steps": ["Blend strawberries", "Mix with lemon juice, water, and honey", "Add ice cubes and serve"],
+    "nutrition": {"calories": 50, "protein": 1, "carbs": 12, "fat": 0},
+    "type": "veg",
+    "healthy_alternative": "Skip honey for zero sugar"
+  },
+  {
+    "name": "Coconut Water Smoothie",
+    "ingredients": ["coconut water", "banana", "honey", "ice cubes"],
+    "steps": ["Blend coconut water, banana, and honey", "Add ice cubes and blend", "Serve chilled"],
+    "nutrition": {"calories": 120, "protein": 2, "carbs": 25, "fat": 1},
+    "type": "veg",
+    "healthy_alternative": "Skip honey for natural sweetness"
+  },
+  {
+    "name": "Matcha Smoothie",
+    "ingredients": ["matcha powder", "milk", "banana", "honey"],
+    "steps": ["Blend milk, banana, matcha powder, and honey", "Serve chilled"],
+    "nutrition": {"calories": 150, "protein": 3, "carbs": 28, "fat": 2},
+    "type": "veg",
+    "healthy_alternative": "Use almond milk and no honey"
+  },
+  {
+    "name": "Peach Iced Tea",
+    "ingredients": ["peach slices", "black tea", "honey", "ice cubes"],
+    "steps": ["Brew black tea", "Add peach slices and honey", "Serve over ice cubes"],
+    "nutrition": {"calories": 60, "protein": 0, "carbs": 15, "fat": 0},
+    "type": "veg",
+    "healthy_alternative": "Use no honey for zero sugar"
+  },
+  {
+    "name": "Orange Mint Smoothie",
+    "ingredients": ["orange juice", "mint leaves", "yogurt", "ice cubes"],
+    "steps": ["Blend orange juice with yogurt and mint leaves", "Add ice cubes and blend", "Serve chilled"],
+    "nutrition": {"calories": 100, "protein": 3, "carbs": 22, "fat": 1},
+    "type": "veg",
+    "healthy_alternative": "Use low-fat yogurt"
+  },
+  {
+    "name": "Pineapple Coconut Water",
+    "ingredients": ["pineapple", "coconut water", "ice cubes"],
+    "steps": ["Blend pineapple with coconut water", "Add ice cubes and blend", "Serve chilled"],
+    "nutrition": {"calories": 80, "protein": 1, "carbs": 20, "fat": 0},
+    "type": "veg",
+    "healthy_alternative": "No added sugar needed"
+  },
+  {
+    "name": "Blueberry Smoothie",
+    "ingredients": ["blueberries", "yogurt", "honey", "ice cubes"],
+    "steps": ["Blend blueberries with yogurt and honey", "Add ice cubes and blend", "Serve chilled"],
+    "nutrition": {"calories": 140, "protein": 3, "carbs": 28, "fat": 2},
+    "type": "veg",
+    "healthy_alternative": "Use Greek yogurt and skip honey"
+  },
+  {
+    "name": "Ginger Lemon Tea",
+    "ingredients": ["ginger", "lemon", "honey", "water"],
+    "steps": ["Boil water with ginger", "Add lemon juice and honey", "Serve hot"],
+    "nutrition": {"calories": 30, "protein": 0, "carbs": 8, "fat": 0},
+    "type": "veg",
+    "healthy_alternative": "Use no honey for zero sugar"
+  },
+  {
+    "name": "Chia Seed Drink",
+    "ingredients": ["chia seeds", "lemon juice", "water", "honey"],
+    "steps": ["Soak chia seeds in water", "Add lemon juice and honey", "Stir and serve chilled"],
+    "nutrition": {"calories": 60, "protein": 2, "carbs": 12, "fat": 2},
+    "type": "veg",
+    "healthy_alternative": "Skip honey for fewer calories"
 }
-
-
 ]
-
-
-
